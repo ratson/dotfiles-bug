@@ -1,0 +1,3 @@
+[dotfiles]
+packages = [
+    'local', 'local/bin']

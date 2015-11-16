@@ -1,0 +1,4 @@
+[dotfiles]
+prefix = .
+packages = [
+    '.local', '.local/bin']
